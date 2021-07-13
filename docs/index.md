@@ -1,37 +1,64 @@
-## Welcome to GitHub Pages
+---
+layout: default
+title: Home
+nav_order: 1
+description: "Main Page"
+permalink: /
+---
+![iDaaS Word Art](../images/iDAAS-Web-WordCloud.png)
 
-You can use the [editor on GitHub](https://github.com/Project-Herophilus/Project-Herophilus/edit/gh-pages/docs/index.md) to maintain and preview the content for your website in Markdown files.
+# Common Links
+Below are common links to help you navigate all the site content.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We take any feedback seriously, please feel free to go to our <a href="https://github.com/RedHat-Healthcare/" target="_blank"> Red Hat Healthcare GitHub Org</a>
+and file issues or discussion items. All communications we receive influences our [Technical Roadmap](../docs/Roadmap/index.md).
 
-### Markdown
+| General|Platform Design |
+| -------------|----------|
+|[General Background](../docs/General/Background.md)|[Architecture](../docs/Design/Architecture.md)|
+|[OpenSource](../docs/General/OpenSource.md)|[Design Principles](../docs/Design/DesignPrinciples.md)|
+|[Code of Conduct](../docs/General/CodeOfConduct.md)|[Capabilities](../docs/Design/Capabilities.md)|
+|[Fictious Org.](../docs/General/FictitiousOrg.md)|[Platform Components](../docs/Design/PlatformComponents.md)|
+|[Technical Leadership](../docs/General/TechnicalLeadership.md)|[Integration Standards Support](../docs/Design/IntegrationStandardsSupported.md)|
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+More specific links around technologies used, setup and implementations:
 
-```markdown
-Syntax highlighted code block
+| Technical |Use Cases - Implementations |
+| -------------|----------|
+|[Technologies Leveraged](../docs/Technical/Technologies.md)|[Platform Component Specifics](../docs/UseCases/PlatformComponents-Specific.md)|
+|[End User Setup](../docs/Technical/EndUserSetup.md)|[Implementation Guides](ImplementationGuides/intro.md)|
 
-# Header 1
-## Header 2
-### Header 3
+# Intelligent DaaS (Data as a Service)
+Welcome, Intelligent DaaS (Data as a Service) is a newer form of innovation. It is intended to be a <b> design pattern/reference architecture/accelerator </b> 
+built atop industry leading software. The sole purpose of ALL the capabilities we have enabled for healthcare is enable <b> Data as an Asset</b>. 
+Data Integration is all about Data Innovation and all the things that can be done without data:
 
-- Bulleted
-- List
+![iDaaS Art of the Possible](../images/iDAASPlatform-iDaaSDataFlow-Detailed.png)
 
-1. Numbered
-2. List
+Here is another way to think about data innovation with intelligent Daas.
 
-**Bold** and _Italic_ and `Code` text
+![iDaaS Art of the Possible](../images/iDAASPlatform-Visuals-iDAASDataTier-4Rs.png)
+With all this being said, <b>it was important for our code to be completely open and available with Apache 2 License!!</b>
+We are sure you have doubts and questions like:
 
-[Link](url) and ![Image](src)
-```
+* I already have an integration engine or enterprise application integration platform? You should not replace an existing 
+  integration engine or EAI platform, that would take time with lots of coordination. We would argue it is working for the 
+  masses then you should keep it in place. Do you view that platform as strategic or innovative though? Probably not, but 
+  it can provide access to existing information for business efforts though. Why not use it for what is good at and build 
+  innovation atop it. You can also enable innovation at an enterprise, organization or team level with this model without 
+  sacrificing security.
+* I have heard all of this before and I am still not seeing any industry progress? The industry is evolving and changing. 
+  Digital in healthcare, along with several other factors, is causing the entire way healthcare data to not only be 
+  re-imagined but re-evaluated. This is forcing various changes including
+  new and more modern integration standards.
+* Why would you do this? Its time to help lead and drive change.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Has anyone run the risk and put their code and all their work out there for the masses to leverage in this manner? The upstream open source projects our core to our culture is all about open source and an open-source mindset. Because of this we decided to follow those practices for everything for this effort. We also have and will continue to publish onto Git Hub through our organization.
+# Partnering to Delivery Industry Enablement
+Partnering is at the core of our capabilities we are enabling for the healthcare industries.
 
-### Jekyll Themes
+[Driving Innovation](../docs/Technical/Implementation.md)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Project-Herophilus/Project-Herophilus/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<br/>
+Happy coding!!!!

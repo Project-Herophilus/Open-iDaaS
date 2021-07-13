@@ -22,7 +22,7 @@ More specific links around technologies used, setup and implementations:
 | Technical |Use Cases - Implementations |
 | -------------|----------|
 |[Technologies Leveraged](docs/Technical/Technologies.md)|[Platform Component Specifics](docs/UseCases/PlatformComponents-Specific.md)|
-|[End User Setup](docs/Technical/EndUserSetup.md)|[Implementation Guides](docs/ImplementationGuides/intro.md)|
+|[Technical Guides](docs/Technical/intro.md)|[Implementation Guides](docs/ImplementationGuides/intro.md)|
 
 # Intelligent DaaS (Data as a Service)
 Welcome, Intelligent DaaS (Data as a Service) is a newer form of innovation. It is intended to be a <b> design pattern/reference architecture/accelerator </b> 

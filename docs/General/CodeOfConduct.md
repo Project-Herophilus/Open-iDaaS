@@ -1,10 +1,3 @@
----
-layout: default
-title: Code of Conduct
-nav_order: 2
-description: "Code of Conduct"
----
-
 # Intelligent DaaS (Data As A Service) - Code of Conduct
 
 If you have seen the Code of Conduct below it is because we looked at numerous plaxces and took several examples and roled up numerous things into one.

@@ -1,17 +1,10 @@
----
-layout: default
-title: Home
-nav_order: 1
-description: "Main Page"
-permalink: /
----
+
 ![iDaaS Word Art](../images/iDAAS-Web-WordCloud.png)
 
 # Background
 This is the upstream community to to Red Hat Healthcare's Intelligent DaaS. Please feel free to go to our discussion
 and/or issues areas. Any feedback is considered as we always look to improve our design pattern/reference architecture. 
 Any communication to these areas or the project owners influences our [Technical Roadmap](../docs/Roadmap/index.md).
-
 
 # Common Links
 Below are common links to help you navigate all the site content. 

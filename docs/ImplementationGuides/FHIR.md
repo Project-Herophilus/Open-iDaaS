@@ -90,18 +90,9 @@ mvn spring-boot:run
  ```
 + Code Editor: You can right click on the Application.java in the /src/<application namespace> and select Run
 
-
 # Testing
 We have made a recent change to leverage Insomnia Core for testing APIs.  Leverage the files included in the
 platforms-addons/Insomnia-APITesting directory of this repository. 
-
-# Getting Involved
-Here are a few ways you can get or stay involved.
-
-## Ongoing Enhancements
-We maintain all enhancements within the Git Hub portal under the
-<a href="https://github.com/RedHat-Healthcare/Demo-iDAAS-Connect-FHIR/projects" target="_blank">projects tab</a>
-
 
 
 If you would like to contribute feel free to, contributions are always welcome!!!!

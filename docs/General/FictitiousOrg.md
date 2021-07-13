@@ -1,10 +1,4 @@
-﻿---
-layout: default
-title: Fictitious Org.
-nav_order: 3
-description: "Fictitious Organization"
----
-
+﻿
 # Fictitious Org: Care Delivery Corp. US (Caduceus)
 In order to ensure you can demonstrate capabilities in the real world it is important to have a company 
 that can help with this, in the 1990's Microsoft did this with 

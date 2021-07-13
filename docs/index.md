@@ -7,11 +7,14 @@ permalink: /
 ---
 ![iDaaS Word Art](../images/iDAAS-Web-WordCloud.png)
 
-# Common Links
-Below are common links to help you navigate all the site content.
+# Background
+This is the upstream community to to Red Hat Healthcare's Intelligent DaaS. Please feel free to go to our discussion
+and/or issues areas. Any feedback is considered as we always look to improve our design pattern/reference architecture. 
+Any communication to these areas or the project owners influences our [Technical Roadmap](../docs/Roadmap/index.md).
 
-We take any feedback seriously, please feel free to go to our <a href="https://github.com/RedHat-Healthcare/" target="_blank"> Red Hat Healthcare GitHub Org</a>
-and file issues or discussion items. All communications we receive influences our [Technical Roadmap](../docs/Roadmap/index.md).
+
+# Common Links
+Below are common links to help you navigate all the site content. 
 
 | General|Platform Design |
 | -------------|----------|

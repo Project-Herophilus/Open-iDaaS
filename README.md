@@ -12,6 +12,7 @@ As you look at this page just keep in mind it is ONLY a lionding page intended t
 |iDaaS-Connect| Connecting to all types of data and providing access to information in near realtime|
 |Event Builder| Comprehensive library of building, parsing and processing a vast amount of healthare data|
 |iDaaS-KIC| Knoledge and Insight into any data processed into or through any iDaaS design pattern/reference architect|
+|Data-Simulators| Helping simplify the ability to leverage iDaaS-Connect assets|
 |Consent - Digital Identity| Working to provide a consistent Consent platform that is open source and vendor agnostic|
 |DataSynthesis| The need for synthetic/fictitous data that resembles real information| 
 
